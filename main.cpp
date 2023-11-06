@@ -2,7 +2,7 @@
 using namespace std;
 int main(void){
 	printf("Hello World!");
-	printf("This is a conflict.");
+	printf("This is NOT a conflict.");
 	return 0;
 }
 
